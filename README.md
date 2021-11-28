@@ -15,6 +15,3 @@
 &#8226; also after logged in a user can see some option/links Add Service, Manage Services, Manage Orders three in the home page service section.
 
 &#8226; From this website one can get more information about any destination of tour package which also help him/her to choose a tour service.
-
-
-# classic-tourism-park-server2
