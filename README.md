@@ -1,10 +1,10 @@
 # Classic Tourism Park
 
-&#8226; Live Website: https://classic-tourism-park.web.app/
+&#8226; Live Website: https://classic-tourism-park-6ab7e.web.app/
 
-&#8226; Client Side Code Link: https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-AnirbanAnu2000
+&#8226; Client Side Code Link: https://github.com/AnirbanAnu2000/classic-tourism-park-web2
 
-&#8226; Server Side Code Link: https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-AnirbanAnu2000
+&#8226; Server Side Code Link: https://github.com/AnirbanAnu2000/classic-tourism-park-server2
 
 &#8226; This is tourism related website.
 
